@@ -1,0 +1,31 @@
+h1{
+    color: #005fa3
+}
+.contador {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+}
+.contador h3 {
+  color: #333;
+  margin: 10px 0;
+}
+.contador p {
+  color: #e63946;
+  font-weight: bold;
+}
+.btn {
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.btn:hover {
+  background-color: #005fa3;
+}
